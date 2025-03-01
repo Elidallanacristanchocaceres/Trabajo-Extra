@@ -35,5 +35,10 @@
 ### 🌈Estilo
   El diseño del sitio web utiliza una paleta de colores oscuros con acentos dorados. El archivo style.css contiene todas las reglas de estilo necesarias para lograr la apariencia deseada.
 
-# 📱 Contacto
-  Para cualquier pregunta o comentario sobre el proyecto, por favor contacta con [Elidallana Cristancho] a través de [cristanchodayana062017@gmail.com].
+____
+### 📬 Contacto
+- 📧 Correo electrónico: cristanchodayana062017@gmail.com
+
+- 💼 LinkedIn: [Elidallana Cristancho Caceres](https://www.linkedin.com/in/elidallanacristancho/)
+
+¡Gracias por ser parte de esta aventura! 🚀✨
